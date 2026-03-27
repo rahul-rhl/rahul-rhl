@@ -38,7 +38,8 @@ I build production-grade AI systems — RAG pipelines, LLM agents, and scalable 
 ---
 
 ### 📫 Reach Me
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--sreenivas-0d1117?style=flat&logo=linkedin&logoColor=00d4aa)](https://linkedin.com/in/rahul-sreenivas)
-[![Email](https://img.shields.io/badge/Email-rahulsreenivasanp@gmail.com-0d1117?style=flat&logo=gmail&logoColor=00d4aa)](mailto:rahulsreenivas889@gmail.com)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Live-0d1117?style=flat&logo=vercel&logoColor=00d4aa](https://rahul-rhl.github.io/Hi-Its-me-Rahul/#))](https://rahul-sreenivasan.github.io)
+[![Email](https://img.shields.io/badge/Email-rahulsreenivas889@gmail.com-0d1117?style=flat&logo=gmail&logoColor=00d4aa)](mailto:rahulsreenivas889@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0d1117?style=flat&logo=vercel&logoColor=00d4aa)](https://rahul-rhl.github.io/Hi-Its-me-Rahul/#)
+ 
